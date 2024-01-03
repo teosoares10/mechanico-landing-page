@@ -44,6 +44,9 @@ li {
 .title--large {
   font-size: 5rem;
 }
+.title--width {
+  width: 20rem;
+}
 
 .title--capitalize {
   text-transform: capitalize;

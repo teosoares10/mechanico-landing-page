@@ -63,10 +63,6 @@ li {
   border-top: .2rem solid blue;
 }
 
-.nav__item {
-  list-style: none;
-}
-
 .list__link {
   text-transform: capitalize;
 }

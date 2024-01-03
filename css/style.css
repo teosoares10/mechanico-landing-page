@@ -41,6 +41,10 @@ li {
   font-size: medium;
 }
 
+.header__title--large {
+  font-size: 5rem;
+}
+
 .header__title--capitalize {
   text-transform: capitalize;
 }

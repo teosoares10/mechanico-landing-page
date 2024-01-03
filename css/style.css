@@ -28,6 +28,20 @@ li {
   color: white;
 }
 
+.header__title {
+  width: 14rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+
+.header__title--small {
+  font-size: medium;
+}
+
+.header__title--capitalize {
+  text-transform: capitalize;
+}
+
 .nav__list {
   display: flex;
   gap: 2rem;

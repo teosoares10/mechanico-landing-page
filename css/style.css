@@ -45,6 +45,7 @@ li {
 .nav__list {
   display: flex;
   gap: 2rem;
+  padding: 1rem;
 }
 
 .nav__list--right {

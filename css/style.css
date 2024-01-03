@@ -49,17 +49,17 @@ li {
   text-transform: capitalize;
 }
 
-.nav__list {
+.list {
   display: flex;
   gap: 2rem;
   padding: 1rem;
 }
 
-.nav__list--right {
+.list--right {
   margin-left: 23.2rem;
 }
 
-.nav__list--border-top {
+.list--border-top {
   border-top: .2rem solid blue;
 }
 

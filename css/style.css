@@ -31,21 +31,21 @@ li {
   gap: 1rem;
 }
 
-.header__title {
+.title {
   width: 14rem;
   text-transform: uppercase;
   font-size: 1.5rem;
 }
 
-.header__title--small {
+.title--small {
   font-size: medium;
 }
 
-.header__title--large {
+.title--large {
   font-size: 5rem;
 }
 
-.header__title--capitalize {
+.title--capitalize {
   text-transform: capitalize;
 }
 

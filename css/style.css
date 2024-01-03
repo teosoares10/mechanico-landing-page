@@ -5,6 +5,10 @@
   font-family: sans-serif;
 }
 
+body {
+  color: grey;
+}
+
 a {
   text-decoration: none;
 }

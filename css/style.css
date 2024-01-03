@@ -37,7 +37,6 @@ li {
 }
 
 .nav__link {
-  text-decoration: none;
   text-transform: capitalize;
   color: white;
 }

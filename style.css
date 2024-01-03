@@ -59,10 +59,6 @@ li {
   margin-left: 23.2rem;
 }
 
-.list--border-top {
-  border-top: .2rem solid blue;
-}
-
 .list__link {
   text-transform: capitalize;
 }

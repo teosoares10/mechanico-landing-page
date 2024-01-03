@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: blueviolet;
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: white;
+}
+
+.nav__list {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav__item {
+  list-style: none;
+}
+
+.nav__link {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+}

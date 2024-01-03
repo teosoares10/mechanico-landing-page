@@ -67,6 +67,11 @@ li {
   text-transform: capitalize;
 }
 
+.list__item-wrapper {
+  padding: 1rem 1.5rem;
+  text-align: center;
+}
+
 .header__main-content {
   display: flex;
   justify-content: center;

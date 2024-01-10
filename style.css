@@ -21,7 +21,7 @@ li {
 .header__contact {
   display: flex;
   justify-content: space-between;
-  margin-inline-start: 1rem;
+  padding: 1rem;
 }
 
 .header__menu {

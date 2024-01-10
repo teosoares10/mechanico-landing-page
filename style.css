@@ -85,7 +85,7 @@ li {
   align-items: center;
 }
 
-.header__main-content {
+.content-block {
   display: flex;
   justify-content: center;
   align-items: center;

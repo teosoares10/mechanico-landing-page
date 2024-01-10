@@ -47,6 +47,11 @@ li {
   font-size: medium;
 }
 
+.title--medium {
+  font-size: x-large;
+  width: 25rem;
+}
+
 .title--large {
   font-size: 5rem;
 }

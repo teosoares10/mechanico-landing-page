@@ -217,12 +217,29 @@ li {
 
 .footer {
   display: grid;
+  justify-content: center;
   background-color: #020249;
   color: white;
 }
 
+.footer__contact-wrapper {
+  width: 75rem;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding-inline: 1rem;
+  padding-bottom: 5rem;
+  margin: 1rem;
+  border-bottom: 1px solid white;
+}
+
 .footer__title {
   width: 100%;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.footer__text {
   text-align: center;
 }
 
@@ -250,3 +267,4 @@ li {
   color: white;
   border-radius: 999px;
 }
+

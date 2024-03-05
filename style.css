@@ -186,6 +186,10 @@ li {
   flex-direction: column;
 }
 
+.our-service__title {
+  margin-bottom: 2rem;
+}
+
 .contact__title {
   margin-bottom: 1.5rem;
 }
@@ -229,19 +233,20 @@ li {
   gap: 5rem;
 }
 
-.footer__icon-container {
-
-}
-
 .footer__icon-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5rem;
-  background-color: blue;
-  border-radius: 999px;
+  margin-bottom: 2rem;
 }
 
 .footer__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 5rem;
+  background-color: blue;
   color: white;
+  border-radius: 999px;
 }
